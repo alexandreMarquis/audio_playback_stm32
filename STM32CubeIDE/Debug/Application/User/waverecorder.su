@@ -1,0 +1,8 @@
+C:/Users/alemar1/STM32CubeIDE/workspace_1.14.0/Audio_playback_and_record/Src/waverecorder.c:94:9:WaveRecorderStart	16	static
+C:/Users/alemar1/STM32CubeIDE/workspace_1.14.0/Audio_playback_and_record/Src/waverecorder.c:100:6:play_square_wave	16408	static
+C:/Users/alemar1/STM32CubeIDE/workspace_1.14.0/Audio_playback_and_record/Src/waverecorder.c:174:10:WaveRecorderStop	8	static
+C:/Users/alemar1/STM32CubeIDE/workspace_1.14.0/Audio_playback_and_record/Src/waverecorder.c:185:6:WaveRecorderProcess	16	static
+C:/Users/alemar1/STM32CubeIDE/workspace_1.14.0/Audio_playback_and_record/Src/waverecorder.c:242:6:BSP_AUDIO_IN_TransferComplete_CallBack	8	static
+C:/Users/alemar1/STM32CubeIDE/workspace_1.14.0/Audio_playback_and_record/Src/waverecorder.c:275:6:BSP_AUDIO_IN_HalfTransfer_CallBack	8	static
+C:/Users/alemar1/STM32CubeIDE/workspace_1.14.0/Audio_playback_and_record/Src/waverecorder.c:303:6:BSP_AUDIO_OUT_HalfTransfer_CallBack	4	static
+C:/Users/alemar1/STM32CubeIDE/workspace_1.14.0/Audio_playback_and_record/Src/waverecorder.c:308:6:BSP_AUDIO_OUT_TransferComplete_CallBack	8	static
